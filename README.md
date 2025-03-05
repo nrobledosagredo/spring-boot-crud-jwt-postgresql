@@ -6,7 +6,7 @@
 ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 
-## About
+## Overview
 
 A Spring Boot API integrating with PostgreSQL, showcasing AWS Cognito authentication, and performing CRUD operations. This project was created for learning and demonstration purposes.
 
@@ -20,7 +20,7 @@ This project provides a simple item management system, demonstrating a basic RES
 * **CRUD Operations:** Create, Read, Update, and Delete items.
 * **User-Specific Data:** Items are associated with users, ensuring data isolation.
 
-## Technologies Used
+## Technologies
 
 * **Spring Boot:** Java-based framework for building microservices.
 * **Spring Security:** Security framework for authentication and authorization.
