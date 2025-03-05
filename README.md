@@ -8,7 +8,7 @@
 
 ## About
 
-A Spring Boot API integrating with PostgreSQL, showcasing Cognito authentication with AWS Cognito, and performing CRUD operations. This project was created for learning and demonstration purposes.
+A Spring Boot API integrating with PostgreSQL, showcasing AWS Cognito authentication, and performing CRUD operations. This project was created for learning and demonstration purposes.
 
 This project provides a simple item management system, demonstrating a basic REST API secured with JWT via AWS Cognito, and data persistence with PostgreSQL.
 
