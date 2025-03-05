@@ -15,10 +15,10 @@ This project provides a simple item management system, demonstrating a basic RES
 ## Features
 
 * **Spring Boot:** Built with Spring Boot for rapid application development.
-* **PostgreSQL Database:** Data persistence using a PostgreSQL database.
-* **Cognito Authentication:** Secure API endpoints using JWT tokens from AWS Cognito.
-* **CRUD Operations:** Create, Read, Update, and Delete items.
-* **User-Specific Data:** Items are associated with users, ensuring data isolation.
+* **PostgreSQL database:** Data persistence using a PostgreSQL database.
+* **Cognito authentication:** Secure API endpoints using JWT tokens from AWS Cognito.
+* **CRUD operations:** Create, read, update, and delete items.
+* **User-specific data:** Items are associated with users, ensuring data isolation.
 
 ## Technologies
 
@@ -46,7 +46,7 @@ This project provides a simple item management system, demonstrating a basic RES
     cd spring-boot-crud-postgresql-cognito
     ```
 
-2.  **Configure Environment Variables:**
+2.  **Configure environment variables:**
 
     * Create a `.env` file in the project's root directory.
     * Add the following variables, replacing the placeholders with your actual values:
